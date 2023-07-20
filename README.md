@@ -6,7 +6,7 @@
 ### <div align="center">Hi, I'm Christos</div>  
   
 
-- 🔭 I’m currently studying for my third year in a CS degree  
+- 🔭 I'm currently pursuing my third year in a Computer Science degree.
   
 
 - 🌱 I’m currently learning Laravel  
