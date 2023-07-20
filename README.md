@@ -49,7 +49,6 @@
 </td><td valign="top" width="33%">
 
 
-
 ### Mobile Development  
 <div align="center">  
 <a href="https://kotlinlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kotlinlang-icon.svg" alt="Kotlin" height="50" /></a>  
@@ -80,11 +79,6 @@
 
 <br/>  
 
-
-## Recent Blog Posts  
-  
-
-<br/>  
 
 <img src="https://spotify-github-profile.vercel.app/api/view?uid=z9uq9ljpav1htigi1mful7kka&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" align="center" style="width=100%"/>  
 
