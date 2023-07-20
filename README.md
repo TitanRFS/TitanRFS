@@ -1,7 +1,4 @@
-<div align="center">
-<img src="https://titanrfs.github.io/images-repo/1683310758362.jpg" align="center" style="width: 100%" />
-</div>  
-  
+
 
 ### <div align="center">Hi, I'm Christos</div>  
   
