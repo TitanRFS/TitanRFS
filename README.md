@@ -86,7 +86,7 @@
 
 <br/>  
 
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=z9uq9ljpav1htigi1mful7kka&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" align="center" />  
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=z9uq9ljpav1htigi1mful7kka&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" align="center" style="width= 30%" style="height= 30%"/>  
 
 <br/>  
 
@@ -100,5 +100,3 @@
 
 <br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
