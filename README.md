@@ -3,10 +3,10 @@
 ### <div align="center">Hi, I'm Christos</div>  
   
 
-- 🔭 I'm currently pursuing my third year in a Computer Science degree.
+- 🔭 I just finished my Bachelor's Degree in Computer Science and I am looking into Master Programs.
   
 
-- 🌱 I’m currently learning Laravel  
+- 🌱 I’m currently learning React
   
 
 - ⚡ Fun fact: I use tabs over spaces  
