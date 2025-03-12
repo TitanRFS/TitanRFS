@@ -3,7 +3,7 @@
 ### <div align="center">Hi, I'm Christos</div>  
   
 
-- 🔭 I just finished my Bachelor's Degree in Computer Science and I am looking into Master Programs.
+- 🔭 I just finished my Master's Degree in Web and Mobile Development.
   
 
 - 🌱 I’m currently learning React
